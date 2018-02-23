@@ -76,7 +76,25 @@ To keep everything tidy, we will create a separate application inside our projec
 (myvenv) C:\Users\Name\djangogirls> python manage.py startapp blog
 ```
 
-You will notice that a new `blog` directory is created and it contains a number of files now. The directories and files in our project should look like this:
+You will notice that a new `blog` directory is created and it contains a number of files now. The directories and files in our project will now look like this:
+
+<span class="glyphicon glyphicon-folder-open" aria-hidden="true"> </span> djangogirls<br>
+<span style="margin-left: 2em" class="glyphicon glyphicon-folder-open" aria-hidden="true"> </span> blog<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> \_\_init\_\_.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> admin.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> apps.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-folder-open" aria-hidden="true"> </span> migrations<br>
+<span style="margin-left: 6em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> \_\_init\_\_.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> models.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> tests.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> views.py<br>
+<span style="margin-left: 2em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> db.sqlite3<br>
+<span style="margin-left: 2em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> manage.py<br>
+<span style="margin-left: 2em" class="glyphicon glyphicon-folder-open" aria-hidden="true"> </span> mysite<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> \_\_init\_\_.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> settings.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> urls.py<br>
+<span style="margin-left: 4em" class="glyphicon glyphicon-file" aria-hidden="true"> </span> wsgi.py<br>
 
 ```
 djangogirls
